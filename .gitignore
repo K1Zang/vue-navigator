@@ -1,0 +1,11 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.env
+dist
+/.idea
+.idea
+.DS_Store
+pm2.config.js
